@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="daraz_red">#D50032</color>
+    <color name="daraz_black">#000000</color>
+    <color name="daraz_white">#FFFFFF</color>
+    <color name="daraz_light_grey">#A9A9A9</color>
+    <color name="daraz_dark_grey">#7F7F7F</color>
+    <color name="daraz_yellow">#FFD700</color>
+    <color name="daraz_green">#4CAF50</color>
+    <color name="daraz_blue">#2196F3</color>
+    <color name="daraz_orange">#F25B00</color>
+    <color name="daraz_sky">#00A3E0</color>
+</resources>
